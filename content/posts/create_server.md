@@ -23,7 +23,7 @@ new Server environment and software installation
 
 ### 1.2 启动电脑按 Del 进入 Bios, 修改为U盘启动
 
-### 1.3 默认用户名密码 dai dai123
+### 1.3 默认用户名密码 dai dai
 需要联系sam 设置静态ip地址。
 #### 1.3.1 设置静态ip地址以及DNS等
 ### 1.4 修改ubuntu源
