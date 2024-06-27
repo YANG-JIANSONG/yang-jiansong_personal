@@ -31,4 +31,6 @@ git remote add origin https://github.com/yourName/repositoryname.git
 
  #也可以直接使用我编写好的脚本update_git.sh
  bash update_git.sh
+
+ #删除连接
  ```
