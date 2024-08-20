@@ -40,6 +40,9 @@ $ hugo
 ```bash
 #永久域名
 yang-jiansong.github.io
+#快速境外域名
+https://yangjiansong.vercel.app/
 #将public下的所有文件上载到github yang-jiansong.github.io仓库中
+https://github.com/YANG-JIANSONG/YANG-JIANSONG.github.io
 ```
 
