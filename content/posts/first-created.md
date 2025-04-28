@@ -44,5 +44,12 @@ yang-jiansong.github.io
 https://yangjiansong.vercel.app/
 #将public下的所有文件上载到github yang-jiansong.github.io仓库中
 https://github.com/YANG-JIANSONG/YANG-JIANSONG.github.io
+
+
+##其他机器上部署过程
+git clone https://github.com/YANG-JIANSONG/yang-jiansong_personal.git
+git clone https://github.com/YANG-JIANSONG/YANG-JIANSONG.github.io.git
+##复制YANG-JIANSONG.github.io文件夹下的.git文件夹到/public文件夹下
+windows 使用 hugo.exe
 ```
 

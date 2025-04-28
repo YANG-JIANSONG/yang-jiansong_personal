@@ -17,10 +17,11 @@ series = ["Theme Demo"]
 以下来自于: https://github.com/yjianzhu/newServer
 ## 1. 新服务器 环境以及软件安装 
 new Server environment and software installation
+
 ### 1.1 ubuntu 20.04 U盘 安装介质
 [Ubuntu 官网](https://ubuntu.com/download/desktop)
 [rufus U盘制作软件](https://rufus.ie/zh/)
-
+https://blog.csdn.net/kkae8643150/article/details/106388643
 ### 1.2 启动电脑按 Del 进入 Bios, 修改为U盘启动
 
 ### 1.3 默认用户名密码 dai dai
